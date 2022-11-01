@@ -1,22 +1,19 @@
  export const Articles=[
     {
         id:1,
-        heading:"Udaipur, Rajasthan - The City of Lakes",
-        image:require("../pics/UDAIPUR.jpg"),
-        descr:"Udaipur (pronunciation (help·info)) (ISO 15919: Udayapura), historically named as Udayapura, is a city and municipal corporation in Udaipur district of the state of Rajasthan, India.[3][4] It is the administrative headquarter of Udaipur district. It is the historic capital of the kingdom of Mewar in the former Rajputana Agency. It was founded in 1559 by Udai Singh II of the Sisodia clan of Rajput,[5] when he shifted his capital from the city of Chittorgarh to Udaipur after Chittorgarh was besieged by Akbar. It remained as the capital city till 1818 when it became a British princely state,[5] and thereafter the Mewar province became a part of Rajasthan when India gained independence in 1947"
-    },
+        heading:"New York - is the most populous city in the United States",
+        image:require("../pics/newyork.jpg"),
+        descr:"List of largest cities in the United States redirects here. For a list of largest cities by area, see List of United States cities by area. This is a list of the most populous incorporated places of the United States. As defined by the United States Census Bureau, an "incorporated place" includes a variety of designations, including city, town, village, borough, and municipality.[a] A few exceptional census-designated places (CDPs) are also included in the Census Bureau's listing of incorporated places.[b] Consolidated city-counties represent a distinct type of government that includes the entire population of a county, or county equivalent. Some consolidated city-counties, however, include multiple incorporated places. This list presents only that portion (or "balance") of such consolidated city-counties that are not a part of another incorporated place." },
     {
         id:2,
-        heading:"New Delhi,NCR-The city of cities",
-        image:require("../pics/DELHI.jpg"),
-        descr:"New Delhi (/dɛli/ (listen),[6] is the capital of India and a part of the National Capital Territory of Delhi (NCT). New Delhi is the seat of all three branches of the government of India, hosting the Rashtrapati Bhavan, Parliament House, and the Supreme Court of India. New Delhi is a municipality within the NCT, administrated by the NDMC, which covers mostly Lutyens' Delhi and a few adjacent areas. The municipal area is part of a larger administrative district, the New Delhi district.Although colloquially Delhi and New Delhi are used interchangeably to refer to the National Capital Territory of Delhi."
-    },
+        heading:"Singapore -  is a sovereign island country  ",
+        image:require("../pics/Singapur.jpg"),
+        descr:" Singapore -Republic of Singapore, is a sovereign island country and city-state in maritime Southeast Asia. It lies about one degree of latitude (137 kilometres or 85 miles) north of the equator, off the southern tip of the Malay Peninsula, bordering the Strait of Malacca to the west, the Singapore Strait to the south, the South China Sea to the east, and the Straits of Johor to the north. The country's territory is composed of one main island, 63 satellite islands and islets, and one outlying islet, the combined area of which has increased by 25% since the country's independence as a result of extensive land reclamation projects. It has the third highest population density in the world. With a multicultural population and recognising the need to respect cultural identities of the major ethnic groups within the nation, Singapore has four official languages: English, Malay, Mandarin, and Tamil. English is the lingua franca and numerous public services are available only in English. Multiracialism is enshrined in the constitution and continues to shape national policies in education, housing, and politics. " },
     {
         id:3,
-        heading:"Mumbai,Maharashtra-The City of Dreams",
-        image:require("../pics/MUMBAI.jpg"),
-        descr:"Mumbai is the capital city of the Indian state of Maharashtra and the de facto financial centre of India. According to the United Nations, as of 2018, Mumbai is the second-most populous city in India after Delhi and the eighth-most populous city in the world with a population of roughly 2 crore (20 million).As per the Indian government population census of 2011, Mumbai was the most populous city in India with an estimated city proper population of 1.25 crore (12.5 million) living under the Brihanmumbai Municipal Corporation.[19] Mumbai is the centre of the Mumbai Metropolitan Region, the sixth most populous metropolitan area in the world with a population of over 2.3 crore (23 million).[20] Mumbai lies on the Konkan coast on the west coast of India and has a deep natural harbour. In 2008, Mumbai was named an alpha world city. It has the highest number of millionaires and billionaires among all cities in India."
-    },
+        heading:"china - is country in East Asia",
+        image:require("../pics/china.jpg "),
+        descr:" China officially the People's Republic of China  is a country in East Asia. It is the world's most populous country with a population exceeding 1.4 billion people.[l] China spans five geographical time zones[m] and borders fourteen countries by land,[n] the most of any country in the world, tied with Russia. China also has a narrow maritime boundary with the disputed Taiwan.[o][p] Covering an area of approximately 9.6 million square kilometers (3,700,000 sq mi), it is the world's third largest country by total land area.[q] The country consists of 23 provinces,[o] five autonomous regions, four municipalities, and two Special Administrative Regions (Hong Kong and Macau). The national capital is Beijing, and the most populous city and financial center is Shanghai. " },
     {
         id:4,
         heading:"Ahmedabad,Gujarat-Manchester ot the East",
